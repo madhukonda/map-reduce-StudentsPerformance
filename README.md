@@ -9,7 +9,7 @@
 # Data Story 
 -By the data of student performace.I reduce average of parental level of education( associate's degree,bachelor's degree,high school,master's degree,some college,some high school) by thier Reading scores among all the 1000 records.
 
-![BarGraph](images/average_reading_score.png)
+![BarGraph](/images/average_reading_score%20.png)
 
 -Second I also did the above average for the parental level of education( associate's degree,bachelor's degree,high school,master's degree,some college,some high school) by thier Reading scores among all the 1000 records.
 

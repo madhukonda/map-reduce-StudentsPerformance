@@ -15,5 +15,5 @@
 -Second I also did the above average for the parental level of education( associate's degree,bachelor's degree,high school,master's degree,some college,some high school) by thier Reading scores among all the 1000 records.
 
 ![BarGraph](images/above_average.png)
-cat StudentsPerformance.csv | python 21mapper.py | sort | python 22reducer.py > konda.txt
+
 
